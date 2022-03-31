@@ -1,0 +1,10 @@
+C:\Users\skapi\source\repos\PooPaint\PooPaint\bin\Debug\PooPaint.exe.config
+C:\Users\skapi\source\repos\PooPaint\PooPaint\bin\Debug\PooPaint.exe
+C:\Users\skapi\source\repos\PooPaint\PooPaint\bin\Debug\PooPaint.pdb
+C:\Users\skapi\source\repos\PooPaint\PooPaint\obj\Debug\PooPaint.csprojAssemblyReference.cache
+C:\Users\skapi\source\repos\PooPaint\PooPaint\obj\Debug\PooPaint.Form1.resources
+C:\Users\skapi\source\repos\PooPaint\PooPaint\obj\Debug\PooPaint.Properties.Resources.resources
+C:\Users\skapi\source\repos\PooPaint\PooPaint\obj\Debug\PooPaint.csproj.GenerateResource.cache
+C:\Users\skapi\source\repos\PooPaint\PooPaint\obj\Debug\PooPaint.csproj.CoreCompileInputs.cache
+C:\Users\skapi\source\repos\PooPaint\PooPaint\obj\Debug\PooPaint.exe
+C:\Users\skapi\source\repos\PooPaint\PooPaint\obj\Debug\PooPaint.pdb
